@@ -1,0 +1,5 @@
+What Git concepts were you struggling with prior to the GPS session?: I was struggling with the concept of branches and why you would need to push it to the repository on Github.  
+What concepts were clarified during the GPS?: I now understand that feature branches can be used to add and make changes to the master branch. You add, commit, and push the branch to the repository to get it confirmed with collaborators on your team before merging the branch to the master. 
+What questions did you ask your pair and the guide?: I asked for a metaphor to better understand what a repository is. 
+What still confuses you about Git?: How to avoid a merge conflict. I read the instructions on how to avoid it and terms such as IDEs, whitespace, and text binaries are confusing to me. 
+How was your first experience of pairing in a GPS?: It was awesome and extremenly helpful! I was able to get a lot of my questions clarified and I now have a deeper understanding of what git and github are. 
